@@ -1,6 +1,5 @@
-# Bonus-White-Boarding-Exercises
+# Bonus-White-Boarding-Exercises (Week-06)
 App Academy Bonus White-Boarding Exercises
-Week-06
 
 ## Mirror image trees
 Google asks in its interview process for you to draw an algorithm on a board that would return true if a binary tree is a mirror image of another binary tree.
@@ -12,6 +11,7 @@ Amazon and Microsoft ask you to show an algorithm that will reverse a singly-lin
 Amazon and Microsoft ask you to derive an algorithm that will inspect an array of of numbers that contains the values between 0 and the length of the list, inclusive, and find the missing value. For example, you may be given an array that of length 6 that contains
 
 [0, 2, 3, 4, 5, 6]
+
 It is your job to determine that the missing value from the array is 1.
 
 ## Stack min
@@ -24,7 +24,11 @@ Facebook asks you to write the tests cases for testing a ballpoint pen. What wou
 Amazon and Microsoft ask you to specify the classes that it would take to write software to manage a paid parking lot. It should know where cars are parked, be able to identify the cars, know where the keys are hanging, how many cars are in the lot, what time the cars come and go, and how much it costs someone when they leave the parking lot based on the following schedule:
 
 TIME	RATE PER HOUR
+
 8pm - 6am	$3
+
 6am - noon	$10
+
 noon - 6pm	$8
+
 6pm - 8pm	$6
