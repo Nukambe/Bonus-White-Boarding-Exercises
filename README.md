@@ -1,5 +1,6 @@
 # Bonus-White-Boarding-Exercises
 App Academy Bonus White-Boarding Exercises
+Week-06
 
 ## Mirror image trees
 Google asks in its interview process for you to draw an algorithm on a board that would return true if a binary tree is a mirror image of another binary tree.
